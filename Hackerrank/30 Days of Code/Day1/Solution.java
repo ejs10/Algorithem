@@ -11,7 +11,7 @@ public class Solution {
 
 		Scanner scan = new Scanner(System.in);
         
-        /* Declare second integer, double, and String variables. */
+		/* Declare second integer, double, and String variables. */
 		int myInt;
 		double myDouble;
 		String myString;
